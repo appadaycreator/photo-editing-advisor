@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appadaycreator.com/photo-editing-advisor/sitemap.xml
